@@ -1,0 +1,8 @@
+
+			month10: "November",
+			month11: "December",
+
+			active_user_changed_reload_page: "The active user has changed. Reload the page for the latest version.",
+			server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+			oops_we_ran_into_some_problems: "Oops! We ran into some problems.",
+			oops_we_ran_into_some_problems_more_details_console: "Oops! We ran into some problems. Please try again later. More error details may be in the browser console.",
